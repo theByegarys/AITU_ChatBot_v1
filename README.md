@@ -9,11 +9,9 @@ Instructions:
 2) Launch your preferred Integrated Development Environment (IDE) and navigate to the directory where you've stored the project files.
 
 3) Next, access the terminal within your IDE or computer system. Here, you'll set up and initialize the project by executing a series of commands:
-
-      Start by initializing a new Node.js project using the command:
-               1) npm init -y
-      After initialization, install two essential packages for the project by typing:
-               2) npm i express socket.io
+Start by initializing a new Node.js project using the command. After initialization, install two essential packages for the project by typing:
+      1) npm init -y 
+      2) npm i express socket.io
 
 5) After setting up the necessary packages, you can initiate the server by typing the command: node server.js into the terminal. This action will start the server, enabling it to respond to requests.
 
